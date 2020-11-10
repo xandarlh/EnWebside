@@ -1,0 +1,6 @@
+C:\Users\alex303a\source\repos\WebrequestExample\WebrequestExample\bin\Debug\WebrequestExample.exe.config
+C:\Users\alex303a\source\repos\WebrequestExample\WebrequestExample\bin\Debug\WebrequestExample.exe
+C:\Users\alex303a\source\repos\WebrequestExample\WebrequestExample\bin\Debug\WebrequestExample.pdb
+C:\Users\alex303a\source\repos\WebrequestExample\WebrequestExample\obj\Debug\WebrequestExample.csprojAssemblyReference.cache
+C:\Users\alex303a\source\repos\WebrequestExample\WebrequestExample\obj\Debug\WebrequestExample.exe
+C:\Users\alex303a\source\repos\WebrequestExample\WebrequestExample\obj\Debug\WebrequestExample.pdb
